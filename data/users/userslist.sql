@@ -1,0 +1,7 @@
+SELECT [UserId]
+      ,[UserName]
+      ,[Password]
+      ,[FName]
+      ,[LName]
+      ,[DepartmentDetailId]
+  FROM [dbo].[User]
